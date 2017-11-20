@@ -1,5 +1,7 @@
 footer {
   text-align: center;
-  background:rgb(224, 222, 222);
-  margin-top: 20px;
+  background:rgb(69, 93, 231);
+}
+.text-muted{
+  color: white;
 }
